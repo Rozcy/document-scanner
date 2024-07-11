@@ -24,7 +24,7 @@ Document Scanner is a powerful Python-based application that utilizes the OpenCV
 
 1. Clone the repository:
   ```sh
-git clone https://github.com/Rozcy/document-scanner.git
+git clone https://github.com/YegorCherov/document-scanner.git
 ```
 
 2. Install the required packages:
